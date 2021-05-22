@@ -1,8 +1,7 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 # Weather-app in Vanilla Javascript
 
-This project is built by Vanilla Javascript and webpack.THe project requires list of items each with a title,description and due date. These items are more of a todo list where they are supposed to work as reminders on tasks to be completed.
-
+This project is built by Vanilla Javascript, html and css.Create a weather forecast site using the weather API from the previous lesson. You should be able to search for a specific location and toggle displaying the data in Fahrenheit or Celsius.
 ## Built With
 
 - Vanilla JavaScript
