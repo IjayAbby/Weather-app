@@ -9,18 +9,27 @@
 </head>
 
 <body>
-
-    <div class="container">
-        <h1>Weather App in Vanilla JavaScript</h1>
-        <input type="text" class="inputTxt" placeholder="Enter City....."> <br>
-        <input type="submit" value="Submit" class="btn">
-
-        <!-- For Show Details -->
-        <div class="showData"></div>
-        
-    </div>
-   
-    <script src="./main.js"></script>
+    <div class="card">
+        <div class="search d-flex justify-content-center pb-3">
+          <input type="text" class="search" name="search" id="search-input" placeholder="Search...">
+          <button id="search-btn"><i class="fas fa-search mx-1"></i></button>
+        </div>
+        <div class="weather loading">
+          <div class="main-weather">
+            <h2 class="city mt-4" id="city">Weather App</h2>
+            <div id="temps-section" class="temps-section">
+              <div class="temp" id="temp"></div>
+              <button id="changeF" class="btn btn-secondary">Fahrenheit</button>
+              <button id="changeC" class="btn btn-secondary">Celsius</button>
+              <img src="" alt="" class="icon" id="icon">
+            </div>
+          </div>
+          <div class="description" id="description"></div>
+          <div class="humidity" id="humidity"></div>
+          <div class="wind" id="wind"></div>
+        </div>
+      </div>
+      <script src='main.js'></script> 
 </body>
 
 </html>
