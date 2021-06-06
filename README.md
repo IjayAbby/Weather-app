@@ -20,7 +20,10 @@ This project is built by Vanilla Javascript, html and css.Create a weather forec
 
 <!-- ### Run Tests -->
 
-![Live Demo](https://optimistic-mclean-8a701e.netlify.app/)
+### Screenshot
+
+![Screenshot_2021-05-22 Weather App](https://user-images.githubusercontent.com/43843720/119212383-928af700-bac0-11eb-8a6e-1fde918e31a0.png)
+
 
 ## Author
 
