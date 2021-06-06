@@ -22,7 +22,7 @@ This project is built by Vanilla Javascript, html and css.Create a weather forec
 
 ### Screenshot
 
-![Screenshot_2021-05-22 Weather App](https://user-images.githubusercontent.com/43843720/119212383-928af700-bac0-11eb-8a6e-1fde918e31a0.png)
+![Screenshot 2021-06-06 at 16-14-54 Weather App](https://user-images.githubusercontent.com/43843720/120925963-997e5000-c6e3-11eb-8bc7-545b90bab7a5.png)
 
 
 ## Author
