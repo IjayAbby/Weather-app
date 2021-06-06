@@ -27,8 +27,8 @@
     "webpack": "^5.38.1",
     "webpack-cli": "^4.7.0"
   },
- 
   "dependencies": {
+    "@fortawesome/fontawesome": "^1.1.8",
     "@fortawesome/fontawesome-free": "^5.15.3",
     "bootstrap": "^5.0.1",
     "css-loader": "^5.2.5",
