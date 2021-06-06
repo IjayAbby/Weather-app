@@ -1,12 +1,17 @@
 {
   "devDependencies": {
+    "@babel/core": "^7.14.3",
     "babel-eslint": "^10.1.0",
+    "babel-loader": "^8.2.2",
     "eslint": "6.8.x",
     "eslint-config-airbnb-base": "14.1.x",
     "eslint-plugin-import": "2.20.x",
+    "path": "^0.12.7",
     "stylelint": "13.3.x",
     "stylelint-config-standard": "20.0.x",
     "stylelint-csstree-validator": "^1.9.0",
-    "stylelint-scss": "3.17.x"
+    "stylelint-scss": "3.17.x",
+    "webpack": "^5.38.1",
+    "webpack-cli": "^4.7.0"
   }
 }
