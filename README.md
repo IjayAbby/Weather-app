@@ -8,6 +8,11 @@ This project is built by Vanilla Javascript, html and css.Create a weather forec
 - CSS & HTML
 - OpenWeather API
 
+
+## Live Demo
+
+[Live Demo](https://effervescent-florentine-cc8bab.netlify.app)
+
 ## Getting Started
 
 - Clone the repo `https://github.com/IjayAbby/Weather-app`
