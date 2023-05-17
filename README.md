@@ -7,6 +7,8 @@ This project is built by Vanilla Javascript, html and css.Create a weather forec
 - Vanilla JavaScript
 - CSS & HTML
 - OpenWeather API
+### Live Demo link.
+![Live Demo](https://sunny-zuccutto-797f3f.netlify.app/)
 
 ## Getting Started
 
