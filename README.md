@@ -14,7 +14,7 @@ This project is built by Vanilla Javascript, html and css.Create a weather forec
 
 - Clone the repo `https://github.com/IjayAbby/Weather-app`
 - cd into `Weather-app`
-- Run `git pull origin ft-weather-js`
+- Run `git pull origin development`
 - On the terminal run:
   - `` npm install`` to get a copy of the packages in your local environment
   - ``npm run build`` to run webpack that will intergrate all changes made
